@@ -9,7 +9,7 @@ The official implementation for
 ["Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution"](https://openreview.net/forum?id=G_HSyfLk0m).
 
 <div align=center>
-    <img src="docs/overview.png"/>
+    <img src="docs/Overview.png"/>
 </div>
 
 ## What's news
