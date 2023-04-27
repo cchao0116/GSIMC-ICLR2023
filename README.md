@@ -36,7 +36,7 @@ CSV Download:
 
 Below we report the HR@50, HR@100 and NDCG@100 results *on the above provided dataset*.
 
-| Graph Regularization | Laplacian  |  HR@50  | HR@100  | NDCG@100 |
+| Graph Regularization | Lapalacian  |  HR@50  | HR@100  | NDCG@100 |
 |:---------------------|:----------:|:-------:|:-------:|:--------:|
 | Bandlimited Norm     | Hypergraph | 0.19623 | 0.29322 | 0.08761  |
 | Diffusion Process    | Hypergraph | 0.18990 | 0.28547 | 0.08682  | 
