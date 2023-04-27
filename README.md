@@ -69,7 +69,7 @@ If you find our codes useful, please consider citing our work
 ```bibtex
 @inproceedings{chen2023graph,
   title={Graph Signal Sampling for Inductive One-Bit Matrix Completion: a Closed-form Solution},
-  author={Chao Chen and Haoyu Geng and Gang Zeng and Zhaobing Han and Hua Chai and Xiaokang Yang and Junchi Yan},
+  author={Chen, Chao and Geng, Haoyu and Zeng, Gang and Han, Zhaobing and Chai, Hua and Yang, Xiaokang and Yan, Junchi},
   booktitle={Proceedings of the International Conference on Learning Representations (ICLR'23)},
   year={2023},
 }
